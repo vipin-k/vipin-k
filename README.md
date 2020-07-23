@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Vipin's github stats](https://github-readme-stats.vercel.app/api?username=vipin-k&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
