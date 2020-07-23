@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Vipin's github stats](https://github-readme-stats.vercel.app/api?username=vipin-k&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://www.linkedin.com/in/vipinkumar-gupta)  
-![image title](https://rushter.com/counter.svg)  
+![](https://komarev.com/ghpvc/?username=vipin-k&color=green) 
