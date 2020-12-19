@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=vipin-k&color=green) 
-🌱 I’m currently learning ...
+
 
 [![Sponsor Awais](https://raw.githubusercontent.com/ahmadawais/stuff/master/sponsor/sponsor.jpg)][s]
 
