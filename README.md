@@ -1,5 +1,6 @@
 <div align="left">
-    <p><a href="https://twitter.com/MrAhmadAwais/"><img alt="Twitter @MrAhmadAwais" align="center" src="https://img.shields.io/badge/-@MrAhmadAwais-gray.svg?colorA=6A788D&colorB=1da1f2&style=for-the-badge" /></a>&nbsp;<small> <strong>(follow)</strong> To get <a href="https://Awais.dev/odmt">#OneDevMinute</a> development tips</small></p>
+[![Devops](https://raw.githubusercontent.com/vipin-k/profile/main/profile.gif)
+       <p><a href="https://www.youtube.com/Devopsguru"><img alt="YouTube Vipin" align="center" src="https://img.shields.io/badge/YOUTUBE-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>&nbsp;<small><strong>(subscribe)</strong> #Devops videos</small></p>
     <p><a href="https://www.youtube.com/AhmadAwais"><img alt="YouTube AhmadAwais" align="center" src="https://img.shields.io/badge/YOUTUBE-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>&nbsp;<small><strong>(subscribe)</strong> Tech talks & #OneDevMinute videos</small></p>
     <p><a href="https://AhmadAwais.com/"><img alt="Blog: AhmadAwais.com" align="center" src="https://img.shields.io/badge/-MY%20BLOG-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>&nbsp;<small><strong>(read)</strong> In-depth & long form technical articles</small></p>
     <p><a href="https://www.linkedin.com/in/MrAhmadAwais/"><img alt="LinkedIn @MrAhmadAwais" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>&nbsp;<small><strong>(connect)</strong> On LinkedIn y'all</small></p>
@@ -40,9 +41,9 @@
 
 <div align="left"> 
    
-    <p><a href="https://www.youtube.com/Devopsguru"><img alt="YouTube Vipin" align="center" src="https://img.shields.io/badge/YOUTUBE-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>&nbsp;<small><strong>(subscribe)</strong> #Devops videos</small></p>
+ 
     <p><a href="https://www.linkedin.com/in/vipinkumar-gupta/"><img alt="LinkedIn @Vipin" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>&nbsp;<small><strong>(connect)</strong> On LinkedIn y'all</small></p>
     <p>![profile](https://komarev.com/ghpvc/?username=vipin-k&color=green)</p>
     <p>[![Vipin's github stats](https://github-readme-stats.vercel.app/api?username=vipin-k&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</p>
 </div>
- [![Devops](https://raw.githubusercontent.com/vipin-k/profile/main/profile.gif)
+ 
