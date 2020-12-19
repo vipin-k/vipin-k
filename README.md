@@ -5,6 +5,5 @@
 </div>
 
 ![Devops](https://raw.githubusercontent.com/vipin-k/profile/main/profile.gif)
-[![Sponsor Awais](https://raw.githubusercontent.com/ahmadawais/stuff/master/sponsor/sponsor.jpg)][s]
 [![Vipin's github stats](https://github-readme-stats.vercel.app/api?username=vipin-k&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
